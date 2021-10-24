@@ -1,0 +1,14 @@
+2
+Florida 25
+Texas 23
+Florida Gore
+Texas Gore
+Florida Bush
+Texas Gore
+Texas Bush
+Florida Gore
+Texas Gore
+Florida Bush
+Texas Gore
+Florida Bush
+Texas Gore
